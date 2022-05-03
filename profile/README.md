@@ -64,7 +64,6 @@
 <br>
 <br>
 <br>
-<br>
 <img align="left" width="400" src="https://user-images.githubusercontent.com/92864027/162787825-6f5573e8-8a0f-4596-ae42-e90988e57194.png" alt="Akira's Dev Card"/>
 <a href="https://app.daily.dev/CyberStorm2007" align="right"><img align="right" src="https://user-images.githubusercontent.com/92864027/166299655-c0dd4091-2e4a-4e85-af66-4bd467e95f2d.png" width="400" alt="cyberstorm's Dev Card"/></a>
 
